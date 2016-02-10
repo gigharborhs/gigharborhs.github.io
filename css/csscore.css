@@ -70,11 +70,3 @@ a:link {
 a:visited {
 	color: #FFF;
 }
-.jumbotron {
-	height: 200px;
-	background-repeat: no-repeat;
-	background-size: cover;
-}
-.test .p {
-	font-family: Comic Sans MS, cursive;
-}
