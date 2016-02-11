@@ -37,12 +37,12 @@
 .practicefont .practicefont {
 	font-family: Tahoma, Geneva, sans-serif;
 }
-.Maintitle {
+.tr {
 	font-family: "Courier New", Courier, monospace;
 	font-size: 36px;
 	font-style: normal;
 	font-weight: normal;
-	color: #000;
+	color: #FFFFFF;
 }
 .HeadingFont {
 	font-family: Tahoma, Geneva, sans-serif;
@@ -69,4 +69,7 @@ a:link {
 }
 a:visited {
 	color: #FFF;
+}
+.body {
+	background-color:lightblue;
 }
